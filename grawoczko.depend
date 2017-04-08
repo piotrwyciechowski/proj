@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1491663291 source:c:\users\£asa\desktop\projekt\grawoczko\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<string.h>
+
